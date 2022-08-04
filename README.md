@@ -1,10 +1,9 @@
 # AVR-IC-Tester
 AVR atmega32 based IC Tester for:
-
-IC_4000
-IC_74914
-IC_74832
-IC_4001
-IC_74804
-IC_74874
+IC_4000 <br />
+IC_74914 <br />
+IC_74832 <br />
+IC_4001 <br />
+IC_74804 <br />
+IC_74874 <br />
  
